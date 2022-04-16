@@ -53,7 +53,7 @@ const App = ({ classes }) => {
       </AppBar>
       <main className={classes.layout}>
         <Typography variant="h2" align="center" style={{ marginTop: 80, fontWeight: "bold" }}>
-        Are You Having Mental Health Problems? 🏠🤒
+        Are You Having Mental Health Problems? 🤒
         </Typography>
         <Typography
           variant="h5"
