@@ -1,10 +1,10 @@
 # Mental Wellbeing Quiz App
   It is a React Quiz App which gives suggestions for severity of the mental disorder by showing the scores.
  
- ## Initial 
+ ## First Page
  <img width="1265" alt="2022-04-16 (1)" src="https://user-images.githubusercontent.com/76739126/163684890-81c4b99e-32b0-4386-9f4c-ccd417f79ed2.png">
 
- ## Final
+ ## Last Page
  <img width="1280" alt="2022-04-16 (2)" src="https://user-images.githubusercontent.com/76739126/163684922-292b4d76-0084-4083-8753-bb1047c0bf1b.png">
 
 
